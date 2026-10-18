@@ -170,6 +170,8 @@ with st.expander("How to use and data notes"):                                # 
   deaths over total cases; peak of their summed daily counts). The
   Mean row averages the countries equally, so its ratio can differ
   from the Total row's combined figure.
+- Counts are raw, not population adjusted, so large countries
+  dominate comparisons.
 - Country counts sum the source's province and state rows.
 - Recoveries are excluded: JHU stopped collecting them in August 2021.
 - Data: JHU CSSE Covid-19 repository on GitHub, a fixed historical
